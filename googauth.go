@@ -5,7 +5,7 @@ This package supports the HMAC-Based One-time Password (HOTP) algorithm
 specified in RFC 4226 and the Time-based One-time Password (TOTP) algorithm
 specified in RFC 6238.
 */
-package dgoogauth
+package github.com/superbool/dgoogauth
 
 import (
 	"crypto/hmac"
